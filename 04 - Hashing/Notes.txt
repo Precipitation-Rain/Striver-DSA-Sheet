@@ -1,0 +1,17 @@
+- map is solution for array hashing no of elements limitation 
+
+TC of map : 
+1. map => all cases (best , avg , worst) => o(logn) => n is no of elements in array
+1. unordered_map =>  (best , avg ) => o(1) => n is no of elements in array && worst (very rare) = o(n)
+
+
+
+How hashing is getting implememted:
+- division method => index from o to 9   => number % 10 = something b/ w 0 to 9 => suppose too many numbers
+
+- map => multipe types can be a key
+- in unordered_map has limited options
+
+
+
+
