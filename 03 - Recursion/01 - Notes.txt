@@ -1,0 +1,23 @@
+1. recursion 
+2. speicfic condiftion
+3. calling itself
+4. segmentation fault
+5. stack overflow
+
+What is stack overflow:
+when a funcion call itself the function(who called itself) keep waiting in stack and same condition goes beyond => stack overflow
+when stack overflow ocuures
+
+what is recursion tree:
+representing the recusion in best way
+
+what is base condition
+many base condition can be possible
+how return work
+
+
+Main agendas:
+Infinite recursion
+recursion tree
+base condition
+stack overflow
